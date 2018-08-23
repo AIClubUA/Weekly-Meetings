@@ -1,2 +1,2 @@
 # Weekly-Meetings
-Examples from weekly club meetings
+Notes on topics and examples covered in weekly club meetings
