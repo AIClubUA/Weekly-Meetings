@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Beef Supreme\\Desktop\\toxic-comments/models/lstm-rnn.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\Beef Supreme\\Desktop\\toxic-comments/models/lstm-rnn.ckpt"
