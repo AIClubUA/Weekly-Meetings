@@ -1,6 +1,6 @@
 
 """
-1)  First things first, we will want to gollect the data
+1)  First things first, we will want to collect the data
 
 If you want to download individual .csv:
     https://finance.yahoo.com/quote/TSLA/history?p=TSLA
