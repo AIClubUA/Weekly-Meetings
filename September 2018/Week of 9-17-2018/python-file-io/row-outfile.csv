@@ -1,0 +1,4 @@
+vehicle,weight,travel on land
+boat,4500,False
+car,1500,True
+bike,20,True

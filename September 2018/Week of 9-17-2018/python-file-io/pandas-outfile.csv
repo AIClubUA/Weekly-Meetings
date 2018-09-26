@@ -1,0 +1,5 @@
+vehicle,weight,travel on land
+boat,4500,FALSE
+car,1500,TRUE
+bike,20,TRUE
+skateboards,2.2,TRUE
