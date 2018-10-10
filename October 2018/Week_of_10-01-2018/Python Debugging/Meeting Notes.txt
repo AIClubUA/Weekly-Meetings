@@ -1,0 +1,11 @@
+
+We primarily covered the following rules for debugging:
+	1) when googling, preface your search with the module name that you are using
+		e.g. "pandas <insert error from terminal here>"
+	2) stick to stackoverflow.com answers as much as you can, dont get lost in documentation
+	3) find examples of code in use, as opposed to single line answers
+		BUT dont read any answer thats more than 5-10 lines long - thats a waste of time
+	4) many errors have the same solutions, so if you find an answer with the same error but in a different
+		context, dont be afraid to use that as your solution
+	5) if you cant find an answer easily, look for another way to do things
+		- there are many ways to skin a cat

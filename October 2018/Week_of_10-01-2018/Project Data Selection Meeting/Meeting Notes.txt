@@ -1,0 +1,24 @@
+
+
+This meeting we covered the following items:
+	1) Everyone either made a
+		Github account
+			or
+		Bitbucket Account
+		
+		To get started populating public repositories of code to make resumes look good
+
+	2) Next, veryone made a 
+		Kaggle account
+	
+		This is a data science competition and data finding platform we will be using frequently
+
+	3) After this, everyone selected a dataset from the "datasets" section
+		The selected datasets are what will be worked on over the next few weeks as we implement:
+			Data transformations
+			Data cleaning and preprocessing
+			Feature extraction and engineering
+			Model implementations
+			Hyperparameter tuning
+
+		Find a dataset of something you think is cool!
